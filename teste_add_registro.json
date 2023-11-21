@@ -1,0 +1,12 @@
+[
+  {
+    "ID": 1,
+    "Idade": 10,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Roupas",
+    "Preco": 17.87,
+    "Metodo_Pagamento": "Dinheiro",
+    "Qtd_Compras": 0
+  }
+]
