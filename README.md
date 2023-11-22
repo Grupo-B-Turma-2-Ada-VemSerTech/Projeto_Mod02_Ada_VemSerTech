@@ -18,11 +18,11 @@ Esse projeto é uma aplicação em Python que permite fazer diversas manipulaç�
 O sistema possui 31 funções que estão distribuidas para formatação, validação, formação de listas e suas funções principais que são as seguintes:
 
 1. **Menu Principal:**
-- Apresenta as opções para o usuário, como editar, remover e adicionar informações. 
+    - Apresenta as opções para o usuário, como editar, remover e adicionar informações. 
 
 2. **Regra de negócio:**
-- Realiza o cálculo do ticket médio e agrupa os clientes em dois grupos; 
-- Separa os clientes em dois grupos, sendo o grupo A aqueles com perfil acima do ticket médio e o grupo B abaixo do ticket médio.
+    - Realiza o cálculo do ticket médio e agrupa os clientes em dois grupos; 
+    - Separa os clientes em dois grupos, sendo o grupo A aqueles com perfil acima do ticket médio e o grupo B abaixo do ticket médio.
 
 ![Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
 ![Fluxograma](Flowchart.jpg)
