@@ -12,6 +12,7 @@
 
 # Descrição
 [Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
+![Fluxograma](Flowchart.jpg)
 
 
 [Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
