@@ -11,10 +11,8 @@
 - Ricardo
 
 # Descrição
-[Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
+![Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
 ![Fluxograma](Flowchart.jpg)
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNNQHetw=/?moveToViewport=-6788,-1193,9531,4192&embedId=390412848371" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
 
 [Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 # Requisitos
