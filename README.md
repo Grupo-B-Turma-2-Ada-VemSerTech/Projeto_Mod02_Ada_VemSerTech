@@ -1,22 +1,25 @@
 # CRUD de dados de vendas
 - Projeto Final do Módulo 2 do curso Vem Ser Tech ADA + iFood
 
-# Apresentação Pojeto
-Esse projeto é uma plicação em Python que permite fazer diversas manipulações de registros. O programa utiliza um menu interativo o qual permite que o usuário realize operações, como adicionar, remover e editar registros, realizar leitura e filtragem de dados, gerar estatística, exportar dados para JSON e visualizar regra de negócio.
+# Apresentação Projeto
+Esse projeto é uma aplicação em Python que permite fazer diversas manipulações de registros. O programa utiliza um menu interativo o qual permite que o usuário realize operações, como adicionar, remover e editar registros, realizar leitura e filtragem de dados, gerar estatística, exportar dados para JSON e visualizar regra de negócio.
 
  ## Grupo B:
 
 - Adriely
-- Amanda Rodrigues de Souza
+- Amanda
 - Daniel Poleti 
 - Leticia 
 - Lorrany 
 - Ricardo
 
 # Descrição
+O fluxograma a seguir sintetiza o funcionamento do script
+
 ![Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
 ![Fluxograma](Flowchart.jpg)
 
+> Os dados de entradas podem ser verificado no link a seguir:
 [Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 # Requisitos
 - Python 3.8+
