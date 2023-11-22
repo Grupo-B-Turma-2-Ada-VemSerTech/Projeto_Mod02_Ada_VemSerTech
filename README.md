@@ -1,6 +1,9 @@
 # CRUD de dados de vendas
 - Projeto Final do Módulo 2 do curso Vem Ser Tech ADA + iFood
 
+# Apresentação Pojeto
+Esse projeto é uma plicação em Python que permite fazer diversas manipulações de registros. O programa utiliza um menu interativo o qual permite que o usuário realize operações, como adicionar, remover e editar registros, realizar leitura e filtragem de dados, gerar estatística, exportar dados para JSON e visualizar regra de negócio.
+
  ## Grupo B:
 
 - Adriely
@@ -47,5 +50,18 @@ Os clientes foram categorizados de acordo com o Ticket Médio:
 - Porcentagem de vendas por Item;
 - Porcentagem de vendas por Método de Pagamento.
 
+# Conclusão do Projeto com os Conceitos Principais Aplicados
 
+Nesse projeto, os alunos tiveram oportunidade de aplicar os seguintes conceitos de programação:
+- **JSON:** Utilizado para maipulações de dados. Para adicionar, editar ou remover dados desse tipo de arquivo.
+
+- **Arquivo CSV:** Arquivo com os dados originais. Foi utilizado para gerar o JSON.
+
+- **try/except:** Utilizado para fazer a validação de dados numéricos.
+
+- **Função anônima(lambda):** Criadas para gerar as funções de filtro e estatística do projeto.
+
+- **filter:** Utilizado para filtrar informações do arquivo JSON.
+
+O projeto auxiliou na consolidação dos conceitos aprendidos em sala de aula. Além de exapandir o conhecimento nas funcionalidades da linguagem Python e tratamentos de arquivos como CSV e JSON.
 
