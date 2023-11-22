@@ -12,6 +12,7 @@
 
 # Descrição
 
+[Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 # Requisitos
 - Python 3.8+
  ## Arquivos
