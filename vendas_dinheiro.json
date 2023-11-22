@@ -1,0 +1,6482 @@
+[
+  {
+    "ID": 3,
+    "Idade": 50,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 5,
+    "Idade": 45,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 23,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 25,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 22.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 27,
+    "Idade": 38,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 37,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 69.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 44
+  },
+  {
+    "ID": 42,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 51,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 28.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 85,
+    "Idade": 52,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 93,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 87.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 99,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 100,
+    "Idade": 26,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 107,
+    "Idade": 64,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 108,
+    "Idade": 28,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 110,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 116,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 94.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 122,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 72.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 126,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 54.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 130,
+    "Idade": 24,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 138,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 43.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 139,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 156,
+    "Idade": 63,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 167,
+    "Idade": 46,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 181,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 81.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 185,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 197,
+    "Idade": 38,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 199,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 209,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 38.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 214,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 215,
+    "Idade": 24,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 217,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 61.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 227,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 74.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 230,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 28.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 236,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 89.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 246,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 250,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 47.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 253,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 262,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 263,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 267,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 75.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 274,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 287,
+    "Idade": 27,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 51.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 288,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 295,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 299,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 301,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 304,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 60.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 308,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 327,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 333,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 86.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 334,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 336,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 44
+  },
+  {
+    "ID": 338,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 341,
+    "Idade": 40,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 47.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 344,
+    "Idade": 27,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 346,
+    "Idade": 48,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 350,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 87.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 352,
+    "Idade": 28,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 363,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 364,
+    "Idade": 55,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 370,
+    "Idade": 38,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 379,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 387,
+    "Idade": 64,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 388,
+    "Idade": 45,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 392,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 86.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 396,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 65.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 412,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 419,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 422,
+    "Idade": 38,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 427,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 71.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 428,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 437,
+    "Idade": 40,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 46.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 439,
+    "Idade": 52,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 452,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 454,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 56.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 462,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 466,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 471,
+    "Idade": 50,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 473,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 476,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 503,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 507,
+    "Idade": 28,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 509,
+    "Idade": 27,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 517,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 520,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 54.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 524,
+    "Idade": 46,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 527,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 52.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 530,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 540,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 48.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 545,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 547,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 74.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 550,
+    "Idade": 31,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 37
+  },
+  {
+    "ID": 551,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 565,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 58.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 574,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 68.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 594,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 595,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 83.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 600,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 26.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 602,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 38.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 610,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 54.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 614,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 51.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 615,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 617,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 72.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 631,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 94.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 637,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 638,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 662,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 68.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 664,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 83.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 665,
+    "Idade": 63,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 83.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 666,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 55.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 667,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 26.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 673,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 674,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 688,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 38.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 689,
+    "Idade": 25,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 44
+  },
+  {
+    "ID": 690,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 702,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 709,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 724,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 725,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 726,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 61.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 733,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 57.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 734,
+    "Idade": 45,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 740,
+    "Idade": 64,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 753,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 755,
+    "Idade": 36,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 757,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 768,
+    "Idade": 27,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 773,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 22.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 779,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 794,
+    "Idade": 24,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 796,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 26.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 798,
+    "Idade": 42,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 82.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 799,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 805,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 47.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 815,
+    "Idade": 31,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 816,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 819,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 821,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 822,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 823,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 831,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 840,
+    "Idade": 48,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 10
+  },
+  {
+    "ID": 844,
+    "Idade": 65,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 856,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 858,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 60.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 871,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 873,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 879,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 89.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 37
+  },
+  {
+    "ID": 883,
+    "Idade": 50,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 37
+  },
+  {
+    "ID": 901,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 909,
+    "Idade": 26,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 912,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 74.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 917,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 34.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 919,
+    "Idade": 65,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 42.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 932,
+    "Idade": 24,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 943,
+    "Idade": 26,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 948,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 950,
+    "Idade": 33,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 951,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 959,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 960,
+    "Idade": 36,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 963,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 964,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 967,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 55.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 979,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 985,
+    "Idade": 26,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 78.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 994,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 1004,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 68.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 1005,
+    "Idade": 33,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 44
+  },
+  {
+    "ID": 1009,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 1013,
+    "Idade": 28,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 1017,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 1018,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1023,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 7
+  },
+  {
+    "ID": 1028,
+    "Idade": 33,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 1032,
+    "Idade": 22,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 1046,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 1049,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 1054,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 10
+  },
+  {
+    "ID": 1066,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 1072,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 81.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 1074,
+    "Idade": 22,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 1078,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 28.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 1079,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 1082,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 1092,
+    "Idade": 44,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 1100,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 1102,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 1114,
+    "Idade": 28,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 1115,
+    "Idade": 55,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 1122,
+    "Idade": 63,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 58.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 1131,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 1141,
+    "Idade": 31,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 1143,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 1144,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 1150,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 42.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1153,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 1161,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 42.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 1166,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 1167,
+    "Idade": 48,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 48.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 1175,
+    "Idade": 42,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 1178,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 21.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 1181,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 1182,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 1187,
+    "Idade": 63,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 68.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 1188,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 89.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 37
+  },
+  {
+    "ID": 1196,
+    "Idade": 25,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 95.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 1202,
+    "Idade": 27,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 61.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 1207,
+    "Idade": 22,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 1209,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 1214,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 52.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1215,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 81.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 1216,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 1233,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 1234,
+    "Idade": 46,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1235,
+    "Idade": 38,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 1242,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 51.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 1245,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 1251,
+    "Idade": 52,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 26.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 1255,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 56.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 1257,
+    "Idade": 45,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 48.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 1258,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 1267,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1271,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 1272,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 57.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 1274,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 1275,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 37
+  },
+  {
+    "ID": 1282,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 81.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 1291,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 1299,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 81.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1301,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 1307,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1314,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 28.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 1324,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 1334,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 69.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 1343,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 43.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 1351,
+    "Idade": 31,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 71.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 1362,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 1363,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 46.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 1365,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 75.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 1370,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 75.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 1377,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 65.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 1382,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 86.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 1385,
+    "Idade": 46,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 1389,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1396,
+    "Idade": 47,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1397,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 1398,
+    "Idade": 55,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 1402,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 1406,
+    "Idade": 33,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 1408,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 61.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 1418,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 1421,
+    "Idade": 22,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 1425,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 1433,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 1439,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 38.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 1443,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 92.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 1474,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 1481,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 74.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 1485,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 46.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 1487,
+    "Idade": 25,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 1500,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 1504,
+    "Idade": 50,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 1505,
+    "Idade": 60,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 10
+  },
+  {
+    "ID": 1519,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1532,
+    "Idade": 63,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 83.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 1537,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 82.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 1542,
+    "Idade": 24,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 1546,
+    "Idade": 48,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 43.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 1550,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 55.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 1565,
+    "Idade": 22,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 1572,
+    "Idade": 28,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 1576,
+    "Idade": 52,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 28.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 1580,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 1583,
+    "Idade": 28,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 1584,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 92.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 1586,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1589,
+    "Idade": 48,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 24.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 1591,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 1596,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 1609,
+    "Idade": 26,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 58.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 1615,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 1620,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 78.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 1636,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 24.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1653,
+    "Idade": 65,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 1658,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 1664,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 22.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 1666,
+    "Idade": 40,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 1667,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 1682,
+    "Idade": 24,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 95.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1685,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 1691,
+    "Idade": 40,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 1718,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 1719,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1721,
+    "Idade": 25,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1723,
+    "Idade": 46,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 51.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1726,
+    "Idade": 45,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 1731,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 22.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 1733,
+    "Idade": 45,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 1737,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 61.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 1741,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 21.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 10
+  },
+  {
+    "ID": 1748,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 1756,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 1774,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 92.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 1778,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 44.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 1781,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 81.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 1784,
+    "Idade": 42,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 1785,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 1801,
+    "Idade": 22,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 58.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 1820,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 86.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 1823,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 1824,
+    "Idade": 62,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 1828,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 1836,
+    "Idade": 65,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 75.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 1837,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 52.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 1841,
+    "Idade": 42,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 1853,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 1858,
+    "Idade": 51,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 1875,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 1878,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 1887,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 1888,
+    "Idade": 64,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 44.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 1897,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 51.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 1908,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 74.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 1913,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 56.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 1922,
+    "Idade": 47,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 1933,
+    "Idade": 42,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 1934,
+    "Idade": 48,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 1951,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 78.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 1954,
+    "Idade": 25,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 1957,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 1959,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 1962,
+    "Idade": 47,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 1979,
+    "Idade": 45,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 78.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 1982,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 1986,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 1990,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 42.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 1994,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 1997,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 27.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 2003,
+    "Idade": 31,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 65.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 2005,
+    "Idade": 44,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 2008,
+    "Idade": 26,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 2029,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 10
+  },
+  {
+    "ID": 2034,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 55.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 2038,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 87.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 7
+  },
+  {
+    "ID": 2040,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 51.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 2042,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 2045,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 68.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 2048,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 82.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 2052,
+    "Idade": 65,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 94.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 2057,
+    "Idade": 55,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 46.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 2060,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 2068,
+    "Idade": 60,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 21.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 2070,
+    "Idade": 36,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 82.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 2071,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 2077,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 2083,
+    "Idade": 41,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 89.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 2086,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2089,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 89.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 2090,
+    "Idade": 37,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 57.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 2102,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 2107,
+    "Idade": 60,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 34.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2110,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 2111,
+    "Idade": 52,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 2124,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 71.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 2141,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 2145,
+    "Idade": 47,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 2174,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 2175,
+    "Idade": 42,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 2183,
+    "Idade": 42,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 2199,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 2215,
+    "Idade": 50,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 2219,
+    "Idade": 67,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 2221,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 2232,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 2235,
+    "Idade": 35,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 2244,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 21.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 2247,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 2249,
+    "Idade": 63,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 2262,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 2272,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 2275,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 27.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2279,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 2284,
+    "Idade": 44,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 2285,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 2286,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2303,
+    "Idade": 36,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2306,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 2307,
+    "Idade": 27,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 78.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 2310,
+    "Idade": 70,
+    "Genero": "Homem",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 95.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 2316,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 2323,
+    "Idade": 39,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 2327,
+    "Idade": 66,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2334,
+    "Idade": 33,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 2337,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 94.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 2340,
+    "Idade": 25,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 65.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 2342,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 2355,
+    "Idade": 56,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 78.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 2362,
+    "Idade": 44,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 2366,
+    "Idade": 52,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 2375,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 2384,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 72.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 2390,
+    "Idade": 25,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 87.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 2393,
+    "Idade": 40,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 2395,
+    "Idade": 40,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 47.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 2402,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 2416,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 34.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 2417,
+    "Idade": 59,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 83.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 2431,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 2432,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 2434,
+    "Idade": 54,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 2435,
+    "Idade": 36,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2436,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 27.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 2439,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 2440,
+    "Idade": 55,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 44.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 2445,
+    "Idade": 47,
+    "Genero": "Homem",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 65.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 2447,
+    "Idade": 38,
+    "Genero": "Homem",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 65.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 7
+  },
+  {
+    "ID": 2466,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 2467,
+    "Idade": 32,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 37
+  },
+  {
+    "ID": 2470,
+    "Idade": 68,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 92.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 2471,
+    "Idade": 55,
+    "Genero": "Homem",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 72.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 2472,
+    "Idade": 30,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 83.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 2474,
+    "Idade": 57,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 2475,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 2479,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 2494,
+    "Idade": 21,
+    "Genero": "Homem",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 2499,
+    "Idade": 18,
+    "Genero": "Homem",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2502,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 94.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 2503,
+    "Idade": 46,
+    "Genero": "Homem",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 47.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 2509,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 2511,
+    "Idade": 40,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 42.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 2523,
+    "Idade": 20,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 2524,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 24.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 2528,
+    "Idade": 19,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 2530,
+    "Idade": 34,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 2545,
+    "Idade": 46,
+    "Genero": "Homem",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 2552,
+    "Idade": 29,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2553,
+    "Idade": 61,
+    "Genero": "Homem",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 48.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 2554,
+    "Idade": 69,
+    "Genero": "Homem",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 2559,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 2569,
+    "Idade": 52,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 2576,
+    "Idade": 53,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 2581,
+    "Idade": 43,
+    "Genero": "Homem",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 2593,
+    "Idade": 23,
+    "Genero": "Homem",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 2612,
+    "Idade": 33,
+    "Genero": "Homem",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 2613,
+    "Idade": 55,
+    "Genero": "Homem",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 22.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 2614,
+    "Idade": 58,
+    "Genero": "Homem",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 2624,
+    "Idade": 49,
+    "Genero": "Homem",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2635,
+    "Idade": 26,
+    "Genero": "Homem",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 58.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 2647,
+    "Idade": 33,
+    "Genero": "Homem",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 56.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 2672,
+    "Idade": 37,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 2674,
+    "Idade": 67,
+    "Genero": "Mulher",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 21.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 2676,
+    "Idade": 24,
+    "Genero": "Mulher",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 38.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2679,
+    "Idade": 33,
+    "Genero": "Mulher",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 2684,
+    "Idade": 68,
+    "Genero": "Mulher",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 2688,
+    "Idade": 61,
+    "Genero": "Mulher",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 75.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 2689,
+    "Idade": 53,
+    "Genero": "Mulher",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 2708,
+    "Idade": 32,
+    "Genero": "Mulher",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 2722,
+    "Idade": 19,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 2734,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 83.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 2745,
+    "Idade": 38,
+    "Genero": "Mulher",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2749,
+    "Idade": 24,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 2751,
+    "Idade": 51,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 2753,
+    "Idade": 48,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 2758,
+    "Idade": 39,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 2766,
+    "Idade": 64,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 2772,
+    "Idade": 58,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 52.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 2779,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 57.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 2788,
+    "Idade": 36,
+    "Genero": "Mulher",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 2789,
+    "Idade": 56,
+    "Genero": "Mulher",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 92.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 2790,
+    "Idade": 28,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 85.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 2791,
+    "Idade": 34,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 2797,
+    "Idade": 55,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 2802,
+    "Idade": 64,
+    "Genero": "Mulher",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 56.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 2806,
+    "Idade": 18,
+    "Genero": "Mulher",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 2816,
+    "Idade": 33,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2826,
+    "Idade": 69,
+    "Genero": "Mulher",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 2832,
+    "Idade": 34,
+    "Genero": "Mulher",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 2833,
+    "Idade": 29,
+    "Genero": "Mulher",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2840,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 30
+  },
+  {
+    "ID": 2843,
+    "Idade": 28,
+    "Genero": "Mulher",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 2844,
+    "Idade": 51,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 26.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 2846,
+    "Idade": 26,
+    "Genero": "Mulher",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 2847,
+    "Idade": 50,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 2854,
+    "Idade": 37,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 48.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 2859,
+    "Idade": 34,
+    "Genero": "Mulher",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 87.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 2866,
+    "Idade": 28,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 2870,
+    "Idade": 57,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 58.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 2872,
+    "Idade": 46,
+    "Genero": "Mulher",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 43.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2895,
+    "Idade": 35,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 2908,
+    "Idade": 19,
+    "Genero": "Mulher",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 82.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 2913,
+    "Idade": 48,
+    "Genero": "Mulher",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 2918,
+    "Idade": 58,
+    "Genero": "Mulher",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 2926,
+    "Idade": 54,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 2932,
+    "Idade": 36,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 2939,
+    "Idade": 28,
+    "Genero": "Mulher",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 2943,
+    "Idade": 54,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 37
+  },
+  {
+    "ID": 2945,
+    "Idade": 50,
+    "Genero": "Mulher",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 95.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 2958,
+    "Idade": 69,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 2967,
+    "Idade": 52,
+    "Genero": "Mulher",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 2968,
+    "Idade": 34,
+    "Genero": "Mulher",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 36.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 2969,
+    "Idade": 26,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 48.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 2975,
+    "Idade": 57,
+    "Genero": "Mulher",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 2981,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 2990,
+    "Idade": 46,
+    "Genero": "Mulher",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 2995,
+    "Idade": 69,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 100.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 3001,
+    "Idade": 57,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 7
+  },
+  {
+    "ID": 3003,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 3009,
+    "Idade": 39,
+    "Genero": "Mulher",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 86.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 19
+  },
+  {
+    "ID": 3048,
+    "Idade": 21,
+    "Genero": "Mulher",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 74.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 3051,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 76.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 3055,
+    "Idade": 42,
+    "Genero": "Mulher",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 3067,
+    "Idade": 58,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 48.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 3088,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 3093,
+    "Idade": 52,
+    "Genero": "Mulher",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 54.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 3096,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 13
+  },
+  {
+    "ID": 3113,
+    "Idade": 19,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 3120,
+    "Idade": 63,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 3132,
+    "Idade": 34,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 11
+  },
+  {
+    "ID": 3133,
+    "Idade": 33,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 3138,
+    "Idade": 34,
+    "Genero": "Mulher",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 44.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 3148,
+    "Idade": 45,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 3152,
+    "Idade": 52,
+    "Genero": "Mulher",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 64.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 3157,
+    "Idade": 18,
+    "Genero": "Mulher",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 3162,
+    "Idade": 66,
+    "Genero": "Mulher",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 77.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 3165,
+    "Idade": 40,
+    "Genero": "Mulher",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 3174,
+    "Idade": 69,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 46.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 3177,
+    "Idade": 36,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 37.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 3179,
+    "Idade": 66,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 34.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 3181,
+    "Idade": 18,
+    "Genero": "Mulher",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 3182,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 51.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 3199,
+    "Idade": 61,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 94.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 3204,
+    "Idade": 63,
+    "Genero": "Mulher",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 3225,
+    "Idade": 37,
+    "Genero": "Mulher",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 3243,
+    "Idade": 45,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 74.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 3251,
+    "Idade": 23,
+    "Genero": "Mulher",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 3256,
+    "Idade": 57,
+    "Genero": "Mulher",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 40.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 3257,
+    "Idade": 60,
+    "Genero": "Mulher",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 26.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 3263,
+    "Idade": 42,
+    "Genero": "Mulher",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 35.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 21
+  },
+  {
+    "ID": 3269,
+    "Idade": 22,
+    "Genero": "Mulher",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 3271,
+    "Idade": 59,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 48
+  },
+  {
+    "ID": 3278,
+    "Idade": 59,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 86.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 3307,
+    "Idade": 63,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 3314,
+    "Idade": 55,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 3317,
+    "Idade": 42,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 3320,
+    "Idade": 23,
+    "Genero": "Mulher",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 3321,
+    "Idade": 66,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 44.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 3327,
+    "Idade": 47,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 95.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 10
+  },
+  {
+    "ID": 3346,
+    "Idade": 28,
+    "Genero": "Mulher",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 3350,
+    "Idade": 35,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 3352,
+    "Idade": 43,
+    "Genero": "Mulher",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 3355,
+    "Idade": 42,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 3365,
+    "Idade": 50,
+    "Genero": "Mulher",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 33.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 7
+  },
+  {
+    "ID": 3369,
+    "Idade": 30,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 25.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 3392,
+    "Idade": 47,
+    "Genero": "Mulher",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 57.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 3395,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 98.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 9
+  },
+  {
+    "ID": 3399,
+    "Idade": 54,
+    "Genero": "Mulher",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 60.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 44
+  },
+  {
+    "ID": 3405,
+    "Idade": 69,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 34.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 34
+  },
+  {
+    "ID": 3414,
+    "Idade": 34,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 16
+  },
+  {
+    "ID": 3419,
+    "Idade": 53,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 3432,
+    "Idade": 46,
+    "Genero": "Mulher",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 49.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 20
+  },
+  {
+    "ID": 3434,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 3440,
+    "Idade": 43,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 25
+  },
+  {
+    "ID": 3445,
+    "Idade": 53,
+    "Genero": "Mulher",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 3455,
+    "Idade": 55,
+    "Genero": "Mulher",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 71.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 3471,
+    "Idade": 19,
+    "Genero": "Mulher",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 69.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 3472,
+    "Idade": 43,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 3481,
+    "Idade": 21,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 79.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 3489,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 27.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 7
+  },
+  {
+    "ID": 3494,
+    "Idade": 48,
+    "Genero": "Mulher",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 82.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 3497,
+    "Idade": 39,
+    "Genero": "Mulher",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 38.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 3504,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Camisa",
+    "Categoria": "Vestuário",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 3506,
+    "Idade": 48,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 42.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 3510,
+    "Idade": 50,
+    "Genero": "Mulher",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 22.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 3528,
+    "Idade": 25,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 3529,
+    "Idade": 38,
+    "Genero": "Mulher",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 3542,
+    "Idade": 59,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 22
+  },
+  {
+    "ID": 3554,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 99.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  },
+  {
+    "ID": 3561,
+    "Idade": 18,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 3562,
+    "Idade": 63,
+    "Genero": "Mulher",
+    "Item": "Tênis",
+    "Categoria": "Calçado",
+    "Preco": 29.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 3566,
+    "Idade": 49,
+    "Genero": "Mulher",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 52.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 3569,
+    "Idade": 29,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 71.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 3572,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 27.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 3574,
+    "Idade": 43,
+    "Genero": "Mulher",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 3575,
+    "Idade": 29,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 70.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 39
+  },
+  {
+    "ID": 3576,
+    "Idade": 61,
+    "Genero": "Mulher",
+    "Item": "Cobertura",
+    "Categoria": "Agasalhos",
+    "Preco": 95.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 3577,
+    "Idade": 29,
+    "Genero": "Mulher",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 24.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 3583,
+    "Idade": 23,
+    "Genero": "Mulher",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 15
+  },
+  {
+    "ID": 3586,
+    "Idade": 39,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 3590,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Correia",
+    "Categoria": "Acessórios",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 3592,
+    "Idade": 48,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 89.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 38
+  },
+  {
+    "ID": 3593,
+    "Idade": 61,
+    "Genero": "Mulher",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 82.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 3596,
+    "Idade": 21,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 3598,
+    "Idade": 29,
+    "Genero": "Mulher",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 71.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 3600,
+    "Idade": 37,
+    "Genero": "Mulher",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 34.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 3607,
+    "Idade": 41,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 90.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 3614,
+    "Idade": 58,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 27.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 40
+  },
+  {
+    "ID": 3617,
+    "Idade": 42,
+    "Genero": "Mulher",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 23.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 3620,
+    "Idade": 44,
+    "Genero": "Mulher",
+    "Item": "Echarpe",
+    "Categoria": "Acessórios",
+    "Preco": 75.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 50
+  },
+  {
+    "ID": 3629,
+    "Idade": 53,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 88.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 3636,
+    "Idade": 52,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 3645,
+    "Idade": 35,
+    "Genero": "Mulher",
+    "Item": "Blusa",
+    "Categoria": "Vestuário",
+    "Preco": 32.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 3648,
+    "Idade": 47,
+    "Genero": "Mulher",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 12
+  },
+  {
+    "ID": 3649,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 67.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 45
+  },
+  {
+    "ID": 3651,
+    "Idade": 51,
+    "Genero": "Mulher",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 60.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 3659,
+    "Idade": 28,
+    "Genero": "Mulher",
+    "Item": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 72.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 18
+  },
+  {
+    "ID": 3662,
+    "Idade": 63,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 39.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 5
+  },
+  {
+    "ID": 3664,
+    "Idade": 65,
+    "Genero": "Mulher",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 49
+  },
+  {
+    "ID": 3665,
+    "Idade": 63,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 68.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 1
+  },
+  {
+    "ID": 3671,
+    "Idade": 31,
+    "Genero": "Mulher",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 50.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 3676,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 80.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 3678,
+    "Idade": 32,
+    "Genero": "Mulher",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 3690,
+    "Idade": 47,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 3700,
+    "Idade": 51,
+    "Genero": "Mulher",
+    "Item": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 55.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 24
+  },
+  {
+    "ID": 3702,
+    "Idade": 46,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 36
+  },
+  {
+    "ID": 3712,
+    "Idade": 69,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 62.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 3714,
+    "Idade": 49,
+    "Genero": "Mulher",
+    "Item": "Sapatos",
+    "Categoria": "Calçado",
+    "Preco": 87.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 3715,
+    "Idade": 18,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 31.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 3720,
+    "Idade": 20,
+    "Genero": "Mulher",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 91.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 3736,
+    "Idade": 38,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 44.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 29
+  },
+  {
+    "ID": 3737,
+    "Idade": 42,
+    "Genero": "Mulher",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 56.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 2
+  },
+  {
+    "ID": 3741,
+    "Idade": 42,
+    "Genero": "Mulher",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 96.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 26
+  },
+  {
+    "ID": 3752,
+    "Idade": 36,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 97.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 3759,
+    "Idade": 61,
+    "Genero": "Mulher",
+    "Item": "Sandálias",
+    "Categoria": "Calçado",
+    "Preco": 54.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 23
+  },
+  {
+    "ID": 3766,
+    "Idade": 22,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 52.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 14
+  },
+  {
+    "ID": 3767,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "bolsa",
+    "Categoria": "Acessórios",
+    "Preco": 59.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 43
+  },
+  {
+    "ID": 3770,
+    "Idade": 51,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 87.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 31
+  },
+  {
+    "ID": 3773,
+    "Idade": 44,
+    "Genero": "Mulher",
+    "Item": "Calças",
+    "Categoria": "Vestuário",
+    "Preco": 26.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 35
+  },
+  {
+    "ID": 3783,
+    "Idade": 40,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 45.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 3784,
+    "Idade": 39,
+    "Genero": "Mulher",
+    "Item": "Luvas",
+    "Categoria": "Acessórios",
+    "Preco": 66.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 3785,
+    "Idade": 54,
+    "Genero": "Mulher",
+    "Item": "Meias",
+    "Categoria": "Vestuário",
+    "Preco": 53.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 4
+  },
+  {
+    "ID": 3789,
+    "Idade": 43,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 65.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 27
+  },
+  {
+    "ID": 3794,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "Óculos escuros",
+    "Categoria": "Acessórios",
+    "Preco": 20.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 46
+  },
+  {
+    "ID": 3807,
+    "Idade": 18,
+    "Genero": "Mulher",
+    "Item": "Botas",
+    "Categoria": "Calçado",
+    "Preco": 71.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 41
+  },
+  {
+    "ID": 3823,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Chapéu",
+    "Categoria": "Acessórios",
+    "Preco": 41.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 3828,
+    "Idade": 62,
+    "Genero": "Mulher",
+    "Item": "Joias/Bijuterias",
+    "Categoria": "Acessórios",
+    "Preco": 73.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 47
+  },
+  {
+    "ID": 3834,
+    "Idade": 44,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 93.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 17
+  },
+  {
+    "ID": 3842,
+    "Idade": 68,
+    "Genero": "Mulher",
+    "Item": "Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 57.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 8
+  },
+  {
+    "ID": 3843,
+    "Idade": 35,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 84.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 42
+  },
+  {
+    "ID": 3866,
+    "Idade": 25,
+    "Genero": "Mulher",
+    "Item": "Shorts",
+    "Categoria": "Vestuário",
+    "Preco": 42.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 3868,
+    "Idade": 46,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 21.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 28
+  },
+  {
+    "ID": 3873,
+    "Idade": 41,
+    "Genero": "Mulher",
+    "Item": "Isolador",
+    "Categoria": "Agasalhos",
+    "Preco": 94.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 3
+  },
+  {
+    "ID": 3875,
+    "Idade": 70,
+    "Genero": "Mulher",
+    "Item": "Agasalho",
+    "Categoria": "Vestuário",
+    "Preco": 54.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 33
+  },
+  {
+    "ID": 3880,
+    "Idade": 26,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 63.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 3892,
+    "Idade": 36,
+    "Genero": "Mulher",
+    "Item": "Vestir",
+    "Categoria": "Vestuário",
+    "Preco": 30.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 6
+  },
+  {
+    "ID": 3895,
+    "Idade": 66,
+    "Genero": "Mulher",
+    "Item": "Saia",
+    "Categoria": "Vestuário",
+    "Preco": 78.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 44
+  },
+  {
+    "ID": 3896,
+    "Idade": 40,
+    "Genero": "Mulher",
+    "Item": "Moletom com capuz",
+    "Categoria": "Vestuário",
+    "Preco": 28.0,
+    "Metodo_Pagamento": "dinheiro",
+    "Qtd_Compras": 32
+  }
+]
