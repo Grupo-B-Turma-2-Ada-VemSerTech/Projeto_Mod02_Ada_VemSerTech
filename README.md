@@ -24,8 +24,39 @@ O sistema possui 31 funções que estão distribuidas para formatação, valida�
     - Realiza o cálculo do ticket médio e agrupa os clientes em dois grupos; 
     - Separa os clientes em dois grupos, sendo o grupo A aqueles com perfil acima do ticket médio e o grupo B abaixo do ticket médio.
 
-![Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
+#![Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
 ![Fluxograma](Flowchart.jpg)
+
+**Fluxograma** 
+
+Na abertura do código, é solitado ao cliente qual tipo de arquivo ele deseja deseja importar, (csv, json), então é apresentada uma lista de arquivos numerados com o nome de cada um. 
+Se o arquivo está com linguagem em Inglês, ele solicita se quer o arquivo traduzido ou não, a partir daí  destina-se à um segundo Menu
+
+===========================================
+║       Qual ação deseja realizar?        ║
+===========================================
+| Adicionar um registro             --- A |
+| Remover um registro               --- R |
+| Editar um registro                --- E |
+| Leitura de registros              --- L |
+| Mostrar a regra de negócio        --- N |
+| Realizar estatística              --- S |
+| Realizar filtro                   --- F |
+| Exportar dados para JSON          --- J |
+| Trocar de banco de dados          --- T |
+| Para sair do menu                 --- Q |
+-------------------------------------------
+
+Há várias opções, para que o Usuário tome frente de sua escolha.
+A partir daí o código é trabalhado em 31 funções, que também fazem parte deste fluxograma, onde, podemos citar alguns exemplos:
+
+- Usuário pode inserir registros no arquivo selecionado;
+- Caso haja algum erro no resgistro, pode ser feita uma edição;
+- Pode simplesmente ler os dados sem que haja uma exportação;
+- Ou até mesmo exportar um arquivo, depois de edita-lo ou inserir registros;
+- Na opção de Estatística é trabalhado com opções relevantes para decisões;
+
+Todo o Fluxo do processo de chamada de funções está descrito na imagem do Fluxograma, mostrando a saída, entrada de cada detalhe do Projeto.
 
 > Os dados de entradas podem ser verificado no link a seguir:
 
