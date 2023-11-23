@@ -9,7 +9,7 @@ Esse projeto é uma aplicação em Python que permite fazer diversas manipulaç�
 - Adriely
 - Amanda
 - Daniel Poleti 
-- Leticia 
+- Leticia Santos
 - Lorrany 
 - Ricardo
 
