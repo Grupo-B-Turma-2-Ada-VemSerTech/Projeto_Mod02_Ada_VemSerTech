@@ -27,10 +27,10 @@ O sistema possui 31 funções que estão distribuidas para formatação, valida�
 #![Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
 ![Fluxograma](Flowchart.jpg)
 
-**Fluxograma** 
+# Fluxograma 
 
 Na abertura do código, é solitado ao cliente qual tipo de arquivo ele deseja deseja importar, (csv, json), então é apresentada uma lista de arquivos numerados com o nome de cada um. 
-Se o arquivo está com linguagem em Inglês, ele solicita se quer o arquivo traduzido ou não, a partir daí  destina-se à um segundo Menu
+Se o arquivo está com linguagem em Inglês, ele solicita se quer o arquivo traduzido ou não, a partir daí  destina-se à um segundo Menu:
 
 ![menu 2023-11-23 at 16.00.41.jpeg](https://github.com/Grupo-B-Turma-2-Ada-VemSerTech/Projeto_Mod02_Ada_VemSerTech/blob/e447a83228a85b68faa8474515645ef28a19e4f2/menu%202023-11-23%20at%2016.00.41.jpeg)
 
@@ -42,25 +42,34 @@ A partir daí o código é trabalhado em 31 funções, que também fazem parte d
 - Pode simplesmente ler os dados sem que haja uma exportação;
 - Ou até mesmo exportar um arquivo, depois de edita-lo ou inserir registros;
 - Na opção de Estatística é trabalhado com opções relevantes para decisões;
+- Em Mostrar Regra de Negócio, realiza o cálculo do ticket médio e agrupa os clientes em dois grupos; 
+- Ainda em Regra de NegócioSepara os clientes em dois grupos, sendo o grupo A aqueles com perfil acima do ticket médio e o grupo B abaixo do ticket médio que também é trabalhado em Estatítica.
 
 Todo o Fluxo do processo de chamada de funções está descrito na imagem do Fluxograma, mostrando a saída, entrada de cada detalhe do Projeto.
 
-> Os dados de entradas podem ser verificado no link a seguir:
-
-[Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 # Requisitos
 - Python 3.8+
+
  ## Arquivos
 - `Projeto_grupoB.ipynb`
 - `shopping_trends.csv` (opcional)
 - `vendas_dados.json` (opcional)
 - `vendas_dados_traduzidos.json` (opcional)
  **obs.:** Os arquivos precisam estar no mesmo diretório
+
+ > Os dados de entradas podem ser verificado no link a seguir:
+
+[Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+
+
 # Instalação
 ## Pacotes
-`pip install langdetect`
+- ``os``
+- ``translate``
+- ``json``
+- ``csv``
+- ``langdetect``
 
-`pip install translate`
 
 # Análises estatísticas
 ## Regra de Negócios
