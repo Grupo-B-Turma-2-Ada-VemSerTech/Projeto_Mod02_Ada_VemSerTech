@@ -32,20 +32,7 @@ O sistema possui 31 funções que estão distribuidas para formatação, valida�
 Na abertura do código, é solitado ao cliente qual tipo de arquivo ele deseja deseja importar, (csv, json), então é apresentada uma lista de arquivos numerados com o nome de cada um. 
 Se o arquivo está com linguagem em Inglês, ele solicita se quer o arquivo traduzido ou não, a partir daí  destina-se à um segundo Menu
 
-===========================================
-║       Qual ação deseja realizar?        ║
-===========================================
-| Adicionar um registro             --- A |
-| Remover um registro               --- R |
-| Editar um registro                --- E |
-| Leitura de registros              --- L |
-| Mostrar a regra de negócio        --- N |
-| Realizar estatística              --- S |
-| Realizar filtro                   --- F |
-| Exportar dados para JSON          --- J |
-| Trocar de banco de dados          --- T |
-| Para sair do menu                 --- Q |
--------------------------------------------
+![Menu](https://drive.google.com/file/d/1QRm8PPsO_6MdTnEg_hAXn6FbhEvp1p_m/view?usp=sharing)
 
 Há várias opções, para que o Usuário tome frente de sua escolha.
 A partir daí o código é trabalhado em 31 funções, que também fazem parte deste fluxograma, onde, podemos citar alguns exemplos:
