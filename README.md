@@ -24,11 +24,11 @@ O sistema possui 31 funções que estão distribuidas para formatação, valida�
     - Realiza o agrupamento dos clientes através dos valores de ticket médio de cada um; 
     - Separa os clientes em dois grupos, sendo o grupo A aqueles com perfil acima do ticket médio e o grupo B abaixo do ticket médio.
 
-3. **Estatística**
+3. **Estatística:**
     - Calcula o ticket médio que é um indicador usado para avaliar o gasto médio dos clientes e utilizado para as outras estatísticas;
     - Outras estatísticas são os dados de vendas por gênero, vendas por grupo, vendas por categoria, vendas por método de pagamento e itens mais vendidos.   
 
-4. **Filtro**
+4. **Filtro:**
     - Função que realiza os filtros de acordo com os parâmetros de entrada passados;
     - Esses filtros podem ser por idade, gênero, item, categoria, preço, método de pagamento ou quantidade de compras.
 
