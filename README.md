@@ -7,7 +7,7 @@
  ## Grupo B:
 
 - Adriely
-- Amanda
+- Amanda Rodrigues
 - Daniel Poleti 
 - Leticia Santos
 - Lorrany 
@@ -63,11 +63,10 @@ A partir disso o código é trabalhado em 31 funções, que também fazem parte 
 - `shopping_trends.csv` (opcional)
 - `vendas_dados.json` (opcional)
 - `vendas_dados_traduzidos.json` (opcional)
+
  **obs.:** Os arquivos precisam estar no mesmo diretório
 
- > Os dados de entradas podem ser verificado no link a seguir:
-
-[Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+ > Os dados de entradas podem ser verificado no link a seguir: [Fonte dos dados](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
 
 # Instalação
