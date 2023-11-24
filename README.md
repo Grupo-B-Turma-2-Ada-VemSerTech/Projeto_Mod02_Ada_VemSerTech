@@ -16,9 +16,9 @@
 # Funcionalidades do Projeto
 
 <p style='text-align: justify;'>O sistema possui 31 funções que estão distribuidas para formatação, validação, formação de listas e suas funções principais que são as seguintes:</p>  
-<p style='text-align: justify;'>
+
 1. **Menu Principal:**
-    - Apresenta as opções para o usuário, como editar, remover e adicionar informações. 
+    - <p style='text-align: justify;'>Apresenta as opções para o usuário, como editar, remover e adicionar informações.</p> 
 
 2. **Regra de negócio:**
     - <p style='text-align: justify;'>Realiza o agrupamento dos clientes através dos valores de ticket médio de cada um;</p> 
