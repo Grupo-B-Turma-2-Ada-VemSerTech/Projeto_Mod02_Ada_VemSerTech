@@ -34,8 +34,8 @@
 
 # Fluxograma 
 
-![Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
 ![Fluxograma](Flowchart.jpg)
+Referência: [Fluxograma do Script](https://miro.com/app/board/uXjVNNQHetw=/?moveToViewport=-5856,-879,7669,3565&embedId=44500891566)
 
 <p style='text-align: justify;'>Na abertura do código, é solitado ao cliente qual tipo de arquivo ele deseja importar(csv, json), então é apresentada uma lista de arquivos numerados com o nome de cada um. 
 Se o arquivo está com linguagem em Inglês, ele solicita se quer o arquivo traduzido ou não, a partir daí  destina-se à um segundo Menu:</p>
